@@ -22,7 +22,7 @@ export class InfoPaginaService {
 
       this.cargada = true;
       this.info = res;
-      console.log(res.email); 
+      //console.log(res.email); 
     });
   }
   private cargarEquipo(){
